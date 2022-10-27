@@ -12,8 +12,10 @@
   - Squires (Barracks)
 - Readded Tracking (Barracks) with 10x multiplier
 - Readded Obsidian Arrows (Mayans-Castle) with 13x multiplier
-- Building enhancements
+- Building/Unit enhancements
   - Houses support 10 population (from 5)
+  - Farms are 2x2
+  - Trade Cart and Trade Cog collision area reduced
   - Mill produces food, same as Feitoria but at a 0.2 rate
   - Lumber Camp produces wood, same as Feitoria but at a 0.2 rate
   - Mining Camp produces stone and gold, same as Feitoria but at a 0.2 rate
@@ -33,6 +35,7 @@
   - Squires (Barracks) also applies to Archer class
   - Fletching (Blacksmith) also applies to Mameluke (Saracens)
   - Wheelbarrow and Hand Cart (Town Center) increase farming rate
+  - Farm upgrades (Mill) also increase farm work rate
   - Siege Engineers (Siege Workshop) range increase +3 (was +1)
   - Torsion Engines (Ethiopians) blast width increase +0.55 (was +0.45)
   
