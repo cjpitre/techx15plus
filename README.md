@@ -7,7 +7,7 @@
   - Logistica (Byzantine-Castle)
   - Lechetic Legacy (Poles-Castle)
   - Grand Trunck Road (Hindustanis-Castle)
-  - Torsion Engines (Ethopians-Castle)
+  - Torsion Engines (Ethiopians-Castle)
   - Siege Engineers (University)
   - Squires (Barracks)
 - Readded Tracking (Barracks) with 10x multiplier
@@ -33,6 +33,8 @@
   - Squires (Barracks) also applies to Archer class
   - Fletching (Blacksmith) also applies to Mameluke (Saracens)
   - Wheelbarrow and Hand Cart (Town Center) increase farming rate
+  - Siege Engineers (Siege Workshop) range increase +3 (was +1)
+  - Torsion Engines (Ethiopians) blast width increase +0.55 (was +0.45)
   
 ### Mod Notes
 - most multipliers were added using a modified version of [auto-mods](https://github.com/SiegeEngineers/auto-mods)
