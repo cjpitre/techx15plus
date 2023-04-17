@@ -4,6 +4,7 @@
 - 15x multiplier on most repeatable techs **_crashing possible when adding a lot of a single research in the queue at the same time_**
 - 9x multiplier on Caravan (Market) - too much breaks trade
 - 3x multiplier on Bloodlines - 4 seems to crash
+- 10x multiplier on Architecture
 - 18x multiplier on Husbandry
 - 25x multiplier on 
   - Logistica (Byzantine-Castle)
