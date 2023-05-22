@@ -38,13 +38,12 @@
   - Squires (Barracks) also applies to Archer class
   - Fletching (Blacksmith) also applies to Mameluke (Saracens)
   - Wheelbarrow and Hand Cart (Town Center) increase farming rate
-  - Farm upgrades (Mill) also increase farm work rate
   - Siege Engineers (Siege Workshop) range increase +3 (was +1)
   - Torsion Engines (Ethiopians) blast width increase +0.55 (was +0.45)
   
 ### Mod Notes
 - most multipliers were added using a modified version of [auto-mods](https://github.com/SiegeEngineers/auto-mods)
-- mod built from data files from time of Dynasties of India expansion, April 2022
+- mod built from data files from time of Return of Rome expansion, May 2023
 - Only the english (en) language file was patched to add the text for Obsidian Arrows
 
 #### Mod Details
