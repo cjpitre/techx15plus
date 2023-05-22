@@ -1,4 +1,4 @@
-# **tech x15 v3a** - AOE II Definitive Edition Mod by qwerty3413
+# **tech x15 v4** - AOE II Definitive Edition Mod by qwerty3413
 
 ### Mod Summary
 - 15x multiplier on most repeatable techs **_crashing possible when adding a lot of a single research in the queue at the same time_**
