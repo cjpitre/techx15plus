@@ -2,7 +2,7 @@
 
 ### Mod Summary
 - 15x multiplier on most repeatable techs **_crashing possible when adding a lot of a single research in the queue at the same time_**
-- 9x multiplier on Caravan (Market) - too much breaks trade
+- 12x multiplier on Caravan (Market) - Market is passable now
 - 12x multiplier on Wheelbarrow and Hand Cart to avoid overspeed
 - 5x multiplier on Hoardings, combined with Architecture prevents hit points overflow
 - 3x multiplier on Bloodlines - 4 seems to crash
@@ -11,10 +11,11 @@
 - 25x multiplier on 
   - Logistica (Byzantine-Castle)
   - Lechetic Legacy (Poles-Castle)
-  - Grand Trunck Road (Hindustanis-Castle)
+  - Grand Trunk Road (Hindustanis-Castle)
   - Torsion Engines (Ethiopians-Castle)
   - Siege Engineers (University)
   - Squires (Barracks)
+- Removed multiplier on Guilds and Banking
 - Readded Tracking (Barracks) with 10x multiplier
 - Readded Obsidian Arrows (Mayans-Castle) with 13x multiplier
 - Building/Unit enhancements
